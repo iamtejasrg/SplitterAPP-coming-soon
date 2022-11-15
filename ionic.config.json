@@ -1,0 +1,8 @@
+{
+  "name": "Bill Splitter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2efd3e5d"
+}

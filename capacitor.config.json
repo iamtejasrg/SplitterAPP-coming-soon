@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Bill Splitter",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
